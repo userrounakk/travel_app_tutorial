@@ -1,16 +1,33 @@
-# travel_app_tutorial
+## Rows and Columns &nbsp; <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="15" height="15"/>
 
-A new Flutter project.
+<img align="right" alt="image" src="https://rounak.com.np/github/travel_app_tutorial.png"  width="300" />
 
-## Getting Started
+Travel App Tutorial is a flutter youtube tutorial of a travel app ui clone.
+You can watch the video in YouTube.
 
-This project is a starting point for a Flutter application.
+<br/>
+<h3> Getting Started </h3>
+<br/>
 
-A few resources to get you started if this is your first Flutter project:
+- To clone this project run
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```bash
+  git clone https://github.com/UserRounakk/travel_app_tutorial.git
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Navigat to the folder
+
+```bash
+  cd travel_app_tutorial
+```
+
+- To install this dependencies
+
+```bash
+  Flutter pub get
+```
+
+<br/>
+<h3> Learn More</h3>
+
+- <a href="https://www.youtube.com/watch?v=gcnrIhWn5WM" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="userrounakk" height="15" /> &nbsp; YouTube Tutorial </a>
